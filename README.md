@@ -15,7 +15,8 @@ chmod +x makefile.sh
 ```
 
 in case of a specific commit (fx. 9faa4a4d)
-```shell
+```console
+git clone https://github.com/brabecq/instructpix2pixcogcrea.git
 cd instructpix2pixcogcrea
 git reset --hard 9faa4a4d
 chmod +x makefile.sh
