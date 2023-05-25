@@ -14,6 +14,14 @@ chmod +x makefile.sh
 ./makefile.sh
 ```
 
+in case of a specific commit (fx. 9faa4a4d)
+```shell
+cd instructpix2pixcogcrea
+git reset --hard 9faa4a4d
+chmod +x makefile.sh
+./makefile.sh
+```
+
 ## update the crea universe server
 repository: https://github.com/Center-for-Hybrid-Intelligence/creavisions-universe
 
